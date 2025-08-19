@@ -14,7 +14,9 @@
             <guid>https://fvarrui.github.io/hello-docusaurus/blog/my-first-post</guid>
             <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Éste es mi primer post. 😀]]></description>
-            <content:encoded><![CDATA[<p>Éste es mi primer post. 😀</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Éste es mi primer post. 😀</p>
+<p>A @noeper esto le mola mucho!</p>
+<p>¡Espero que a ti también te guste! 😊</p>]]></content:encoded>
             <category>Hello</category>
             <category>Docusaurus</category>
         </item>

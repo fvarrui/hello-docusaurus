@@ -13,7 +13,9 @@
         <link href="https://fvarrui.github.io/hello-docusaurus/blog/my-first-post"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Éste es mi primer post. 😀]]></summary>
-        <content type="html"><![CDATA[<p>Éste es mi primer post. 😀</p>]]></content>
+        <content type="html"><![CDATA[<p>Éste es mi primer post. 😀</p>
+<p>A @noeper esto le mola mucho!</p>
+<p>¡Espero que a ti también te guste! 😊</p>]]></content>
         <author>
             <name>Fran Vargas</name>
             <uri>https://linkedin.com/in/fvarrui</uri>
