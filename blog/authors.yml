@@ -1,14 +1,13 @@
-yangshun:
-  name: Yangshun Tay
+fvarrui:
+  name: Fran Vargas
   title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+  url: https://linkedin.com/in/fvarrui
+  image_url: https://github.com/fvarrui.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    x: fvarrui
+    linkedin: fvarrui
+    github: fvarrui
 
 slorber:
   name: Sébastien Lorber
