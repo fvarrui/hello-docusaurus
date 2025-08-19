@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fvarrui.github.io/hello-docusaurus/blog</id>
-    <title>Hello Docusaurus 🦖! Blog</title>
+    <title>¡Hola Docusaurus 🦖! Blog</title>
     <updated>2025-08-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fvarrui.github.io/hello-docusaurus/blog"/>
-    <subtitle>Hello Docusaurus 🦖! Blog</subtitle>
+    <subtitle>¡Hola Docusaurus 🦖! Blog</subtitle>
     <icon>https://fvarrui.github.io/hello-docusaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Mi primer post]]></title>
