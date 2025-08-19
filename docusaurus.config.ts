@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-    title: 'Hello Docusaurus 🦖!',
-    tagline: 'My first time dealing with Docusaurus',
+    title: '¡Hola Docusaurus 🦖!',
+    tagline: 'Mi primera vez lidiando con Docusaurus',
     favicon: 'img/favicon.ico',
 
     // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -33,8 +33,8 @@ const config: Config = {
     // useful metadata like html lang. For example, if your site is Chinese, you
     // may want to replace "en" with "zh-Hans".
     i18n: {
-        defaultLocale: 'en',
-        locales: ['en'],
+        defaultLocale: 'es',
+        locales: ['es'],
     },
 
     presets: [
@@ -74,9 +74,9 @@ const config: Config = {
         // Replace with your project's social card
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
-            title: 'My Site',
+            title: '¡Hola Docusaurus!',
             logo: {
-                alt: 'My Site Logo',
+                alt: 'Mi logo',
                 src: 'img/logo.svg',
             },
             items: [
@@ -88,7 +88,7 @@ const config: Config = {
                 },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
-                    href: 'https://github.com/facebook/docusaurus',
+                    href: 'https://github.com/fvarrui/hello-docusaurus',
                     label: 'GitHub',
                     position: 'right',
                 },
