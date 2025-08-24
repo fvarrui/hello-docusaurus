@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>¡Hola Docusaurus 🦖! Blog</title>
+        <link>https://fvarrui.github.io/hello-docusaurus/en/blog</link>
+        <description>¡Hola Docusaurus 🦖! Blog</description>
+        <lastBuildDate>Tue, 19 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Mi primer post]]></title>
+            <link>https://fvarrui.github.io/hello-docusaurus/en/blog/my-first-post</link>
+            <guid>https://fvarrui.github.io/hello-docusaurus/en/blog/my-first-post</guid>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Éste es mi primer post. 😀]]></description>
+            <content:encoded><![CDATA[<p>Éste es mi primer post. 😀</p>
+<p>A @noeper esto le mola mucho!</p>
+<p>¡Espero que a ti también te guste! 😊</p>]]></content:encoded>
+            <category>Hello</category>
+            <category>Docusaurus</category>
+        </item>
+    </channel>
+</rss>
